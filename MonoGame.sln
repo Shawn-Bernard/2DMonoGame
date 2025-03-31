@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonoGame", "MonoGame\MonoGame.csproj", "{A89782EA-8D9D-4F5F-95E9-471584ACED6B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nez.MG38", "Nez-master\Nez.Portable\Nez.MG38.csproj", "{8C9B5F96-E488-486E-BDCE-3C9AD436219C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A89782EA-8D9D-4F5F-95E9-471584ACED6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A89782EA-8D9D-4F5F-95E9-471584ACED6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A89782EA-8D9D-4F5F-95E9-471584ACED6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A89782EA-8D9D-4F5F-95E9-471584ACED6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C9B5F96-E488-486E-BDCE-3C9AD436219C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C9B5F96-E488-486E-BDCE-3C9AD436219C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C9B5F96-E488-486E-BDCE-3C9AD436219C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C9B5F96-E488-486E-BDCE-3C9AD436219C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45545109-6A9D-4517-AB33-035B918B4F90}
+	EndGlobalSection
+EndGlobal
